@@ -19,5 +19,5 @@ I implemented the filtering functionality entirely on the client side, which is 
 
 ## AI usage
 
-While I have expirience using all of the mentioned libraries, I utilized AI to quickly scaffold some boilerplate code for RTK query, initialize react-router-dom and MUI theme.
+While I have expirience using all of the mentioned libraries, I utilized AI (GPT-5) to quickly scaffold some boilerplate code for RTK query, initialize react-router-dom and MUI theme (no agents, just from chatGPT page).
 I also used it to refactor a bit my useFilteredLeagues hook.
